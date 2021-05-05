@@ -1,5 +1,10 @@
-int main()
+#include <iostream>
+using namespace std;
 
-printf("holis");
+int main()
+{
+	cout << "hola mundo"<< endl;
+	cout <<"Bye!";
 
 return 0;
+}
