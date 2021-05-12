@@ -1,10 +1,10 @@
-#include <iostream>
+(agrega todo)#include <iostream>
 using namespace std;
 
 int main()
 {
-	cout << "hola mundo"<< endl;
-	cout <<"Bye!";
+	printf "hola mundo";
+	printf "Bye";
 
 return 0;
 }
